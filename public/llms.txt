@@ -1,0 +1,9 @@
+## Pages
+- [¿Quiénes somos? | CMB Racing Team](/about): Conoce la historia, misión y visión de CMB Racing Team. Un equipo de ingeniería de CETYS Universidad con más de 20 años de experiencia en Baja SAE.
+- [CMB Racing Team | DESIGN. COMPETE. WIN.](/home): Sitio oficial de CMB Racing, el equipo de Baja SAE de CETYS Universidad. Exploramos los límites de la ingeniería off-road. DESIGN. COMPETE. WIN.
+- [Competencias Baja SAE | CMB Racing Team](/competitions): Conoce la trayectoria de CMB Racing en las competencias de Baja SAE, nuestros logros destacados y las sedes en las que hemos participado.
+- [Contacto | CMB Racing Team](/contact): Ponte en contacto con CMB Racing Team. Encuentra nuestro formulario, correo electrónico, redes sociales y ubicación. ¡Únete o patrocina!
+- [Equipo | CMB Racing Team](/team): Conoce a los miembros y la organización del equipo CMB Racing para el ciclo 2024-2025, incluyendo líderes de subsistemas y asesor académico.
+- [Galería | CMB Racing Team](/gallery): Explora la galería de fotos y videos de CMB Racing. Imágenes de nuestro taller, el proceso de manufactura y nuestra participación en competencias.
+- [Prototipo Z-15 | CMB Racing Team](/prototype): Descubre el prototipo Z-15, el vehículo más reciente de CMB Racing. Conoce sus características técnicas, objetivos y evolución.
+- [Subsistemas | CMB Racing Team](/subsystems): Explora los subsistemas técnicos y administrativos que componen CMB Racing Team: Chasis, Tren Motriz, Suspensión, Eléctrico y Administración.

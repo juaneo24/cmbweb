@@ -1,0 +1,83 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --racing-yellow: #FFD700;
+  --racing-black: #0A0A0A;
+  --racing-white: #FFFFFF;
+  --racing-gray: #1A1A1A;
+  --racing-yellow-dark: #E6C200;
+}
+
+body {
+  @apply bg-black text-white;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+.racing-gradient {
+  background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0A0A0A 100%);
+}
+
+.yellow-gradient {
+  background: linear-gradient(135deg, #FFD700 0%, #E6C200 100%);
+}
+
+.text-racing-yellow {
+  color: var(--racing-yellow);
+}
+
+.bg-racing-yellow {
+  background-color: var(--racing-yellow);
+}
+
+.border-racing-yellow {
+  border-color: var(--racing-yellow);
+}
+
+.racing-title {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.racing-subtitle {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.glow-yellow {
+  text-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+  transform: translateY(-2px);
+}
+
+.racing-card {
+  background: linear-gradient(145deg, #1A1A1A, #0F0F0F);
+  border: 1px solid rgba(255, 215, 0, 0.2);
+}
+
+.racing-card:hover {
+  border-color: var(--racing-yellow);
+  box-shadow: 0 10px 30px rgba(255, 215, 0, 0.2);
+}
+
+.tire-track-bg {
+  background-color: #0a0a0a;
+  opacity: 1;
+  background-image:
+    radial-gradient(#1a1a1a 1.5px, transparent 1.5px),
+    radial-gradient(#1a1a1a 1.5px, #0a0a0a 1.5px);
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+}
